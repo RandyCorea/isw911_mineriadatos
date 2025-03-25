@@ -1,9 +1,8 @@
----
+```
 title: "LAB03 - Análisis Exploratorio de Datos"
 author: "Randy Alexander Corea Gonzalez"
-date: "`r Sys.Date()`"
-output: html_document
----
+date: "25/03/2025"
+```
   
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
