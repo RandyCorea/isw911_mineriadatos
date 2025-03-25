@@ -1,8 +1,7 @@
-```
-title: "LAB03 - Análisis Exploratorio de Datos"
-author: "Randy Alexander Corea Gonzalez"
-date: "25/03/2025"
-```
+# LAB03 - Análisis Exploratorio de Datos
+**Autor:** Randy Alexander Corea Gonzalez  
+**Fecha:** 25/03/2025
+
   
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
